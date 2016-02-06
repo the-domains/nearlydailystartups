@@ -2,12 +2,13 @@ name: nearlydailystartups
 favicon: null
 layout_spectrum: 0.4662235900759697
 typography_spectrum: 0.4218831022735685
+title: Nearly Daily Startups
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73404364-1
   facebook: null
   twitter: null
 opengraph:
